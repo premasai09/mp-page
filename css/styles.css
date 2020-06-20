@@ -79,5 +79,6 @@ body
 #collapsable-nav a span 
 {	
 	font-size: 1em;
-    margin-right: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
