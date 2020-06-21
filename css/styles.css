@@ -3,7 +3,7 @@ body
 	background: url(../images/background.jpg) center no-repeat fixed;
 	font-style: italic;
 	font-size: 24px;
-	font-family: 'Piedra', cursive;
+	font-family: 'iPedra', cursive;
 }
 #nav
 {
@@ -53,6 +53,23 @@ body
 {
 	background-color: #C2FC97;
 }
+#collapsable-nav a span 
+{ 
+  font-size: 1em;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
 @media (min-width: 992px) and (max-width: 1199px) 
 {
   #logo 
@@ -75,10 +92,4 @@ body
     padding-top: 10px;
     font-size: 5vw;
   }
-}
-#collapsable-nav a span 
-{	
-	font-size: 1em;
-  margin-right: 10px;
-  margin-bottom: 10px;
 }
